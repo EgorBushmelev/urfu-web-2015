@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /css
+Disallow: /js
+Disallow: /images
+Disallow: /inc
+Disallow: /fonts
+# задает таймаут в 4.5 секунды
+Crawl-delay: 4.5
